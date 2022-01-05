@@ -1,0 +1,13 @@
+[26-Jun-2019 06:04:24 Asia/Jakarta] 0
+[26-Jun-2019 06:04:40 Asia/Jakarta] 0
+[26-Jun-2019 06:04:51 Asia/Jakarta] 0
+[26-Jun-2019 06:05:08 Asia/Jakarta] 0
+[26-Jun-2019 06:05:27 Asia/Jakarta] 0
+[26-Jun-2019 06:05:57 Asia/Jakarta] 0
+[04-Jul-2019 17:59:54 Asia/Jakarta] 0
+[04-Jul-2019 18:00:20 Asia/Jakarta] 0
+[04-Jul-2019 18:00:30 Asia/Jakarta] 0
+[04-Jul-2019 18:00:48 Asia/Jakarta] 0
+[04-Jul-2019 18:01:01 Asia/Jakarta] 0
+[04-Jul-2019 18:07:59 Asia/Jakarta] 0
+[28-Aug-2019 15:23:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
